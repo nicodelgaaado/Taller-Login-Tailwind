@@ -14,7 +14,7 @@ export default function Home() {
           <div className="relative z-10 flex h-full flex-col justify-between p-8 text-white sm:p-10">
             <div className="space-y-7 sm:space-y-10">
               <p className="text-2xl font-semibold tracking-wide">Astro</p>
-              <h1 className="max-w-xs text-4xl font-semibold leading-tight sm:text-5xl">
+              <h1 className="max-w-md text-2xl font-semibold leading-snug sm:text-[2rem]">
                 Exploring new frontiers, one step at a Time.
               </h1>
             </div>
